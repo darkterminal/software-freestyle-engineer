@@ -33,7 +33,7 @@ Researchers interested in replicating or expanding upon this research can refer 
 
 ## Contributions and Contact Information
 
-This research paper was developed by [Your Name]. If you have any questions, feedback, or contributions related to this research, please feel free to contact [Your Email Address].
+This research paper was developed by [Imam Ali Mustofa](https://github.com/darkterminal). If you have any questions, feedback, or contributions related to this research, please feel free to contact [darkterminal@duck.com](mailto:darkterminal@duck.com).
 
 ## License
 
