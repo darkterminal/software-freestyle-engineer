@@ -22,8 +22,8 @@ To access the full research paper, please refer to the main document in the repo
 
 ## Repository Contents
 
-- `README.md`: This file provides an overview of the research paper and instructions on accessing the full document.
-- `research_paper.md`: The complete research paper in PDF format, containing all sections and references.
+- [`README.md`](README.md): This file provides an overview of the research paper and instructions on accessing the full document.
+- [`research_paper.md`](research_paper.md): The complete research paper in PDF format, containing all sections and references.
 - `interview_transcripts/`: A directory containing anonymized transcripts of interviews conducted with Software Freestyle Engineers, project managers, and stakeholders.
 - `supplementary_materials/`: A directory containing supplementary materials and additional information that supports the findings and insights presented in the paper.
 
