@@ -22,6 +22,7 @@ To access the full research paper, please refer to the main document in the repo
 
 ## Repository Contents
 
+- [Thesis of Software Freestyle Engineer](https://github.com/darkterminal/software-freestyle-engineer/blob/main/Software%20Freestyle%20Engineer%20-%20Thesis.pdf) - The Role of a Software Freestyle Engineer in Modern IT
 - [`README.md`](README.md): This file provides an overview of the research paper and instructions on accessing the full document.
 - [`research_paper.md`](research_paper.md): The complete research paper in PDF format, containing all sections and references.
 - `interview_transcripts/`: A directory containing anonymized transcripts of interviews conducted with Software Freestyle Engineers, project managers, and stakeholders.
