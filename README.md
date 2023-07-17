@@ -1,36 +1,20 @@
 # The Role of a Software Freestyle Engineer in Modern IT
 
-This repository contains the research paper titled "The Role of a Software Freestyle Engineer in Modern IT." The paper explores the emerging role of Software Freestyle Engineers in the field of software development and their significance in modern information technology.
+## Thesis Overview
 
-## Abstract
+This repository contains the thesis titled "The Role of a Software Freestyle Engineer in Modern IT." The thesis explores the unique and vital role of a Software Freestyle Engineer in the context of contemporary information technology. It aims to understand the core responsibilities, versatile skill set, and the value they bring to software development projects. The research delves into the evolution of software engineering practices, the emergence of agile methodologies, and the need for flexibility, creativity, and adaptability in the rapidly changing IT landscape.
 
-The abstract provides a concise summary of the research paper, highlighting the objectives, methodology, and key findings. It entices readers to continue reading the paper. Please refer to the paper's abstract in the main document.
+## Usage
 
-## Table of Contents
+This repository serves as a resource for individuals interested in understanding the role of a Software Freestyle Engineer in modern IT. The thesis provides a comprehensive analysis, supported by relevant literature and empirical findings. Each chapter in PDF format can be accessed and downloaded for further reading and reference.
 
-1. Introduction
-2. Literature Review
-3. Methodology
-4. Results and Findings
-5. Discussion
-6. Conclusion
-7. References
+### PDF
+- English Version: [The Role of a Software Freestyle Engineer in Modern IT](./resources/pdf/Software-Freestyle-Engineer-Thesis.pdf)
+- Indonesian Version: [The Role of a Software Freestyle Engineer in Modern IT - ID](./resources/pdf/Software-Freestyle-Engineer-Thesis-[ID].pdf)
 
-## How to Access the Full Paper
-
-To access the full research paper, please refer to the main document in the repository. The paper provides an in-depth exploration of the role of Software Freestyle Engineers in modern IT, supported by a comprehensive literature review and empirical research.
-
-## Repository Contents
-
-- [Thesis of Software Freestyle Engineer](https://github.com/darkterminal/software-freestyle-engineer/blob/main/Software%20Freestyle%20Engineer%20-%20Thesis.pdf) - The Role of a Software Freestyle Engineer in Modern IT
-- [`README.md`](README.md): This file provides an overview of the research paper and instructions on accessing the full document.
-- [`research_paper.md`](research_paper.md): The complete research paper in PDF format, containing all sections and references.
-- `interview_transcripts/`: A directory containing anonymized transcripts of interviews conducted with Software Freestyle Engineers, project managers, and stakeholders.
-- `supplementary_materials/`: A directory containing supplementary materials and additional information that supports the findings and insights presented in the paper.
-
-## Replicating the Research
-
-Researchers interested in replicating or expanding upon this research can refer to the detailed methodology, research design, data collection methods, and analysis techniques described in the main document. Additionally, the interview transcripts and supplementary materials provide further context and support for understanding the research process.
+### Google Docs
+- English Version: [The Role of a Software Freestyle Engineer in Modern IT](https://docs.google.com/document/d/e/2PACX-1vTyG9enXfLoojKZ3MNdybf_tUuSHHOUoSn6CQBiaA5GC5VJhk2CvGhvVXUh6Wel1lhdXwJEBzDSSD64/pub)
+- Indonesian Version: [The Role of a Software Freestyle Engineer in Modern IT - ID](https://docs.google.com/document/d/e/2PACX-1vS2C6URDGh-nqAOpOPrfZfESa1tzvXYlJkiY7O0fxpS5tKdVsEX3PcSAIiQq3M8uQlEXqmBOxp2aRpZ/pub)
 
 ## Contributions and Contact Information
 
